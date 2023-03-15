@@ -40,15 +40,15 @@ img.rounded{
 	margin-left:2%;
 }
 .infos .logo{
-	position:inherit;
-	bottom:-2%;
+	position:absolute;
+	top:10%;
 	left:25%;
 	height: 75%;
 	width: 75%;
 }
 .infos p{
-	position:inherit;
-	left:24%;
+	position:absolute;
+	left:80px;
 	font-size: 22px;
 	font-weight: 600;
 }
