@@ -40,17 +40,20 @@ img.rounded{
 	margin-left:2%;
 }
 .infos .logo{
-	position:absolute;
-	top:10%;
-	left:25%;
-	height: 75%;
-	width: 75%;
+	text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 .infos p{
-	position:absolute;
-	left:80px;
-	font-size: 22px;
-	font-weight: 600;
+	display: table;
+    height: 45px;
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.4em;
+    line-height: 1.1;
+    margin-bottom: 10px;
 }
 .wrapper section .title{
 	font-size: 44px;
