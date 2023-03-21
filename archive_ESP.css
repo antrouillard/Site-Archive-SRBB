@@ -50,6 +50,20 @@ img.rounded{
     text-align: center;
     margin: 5px 0 8px 0;
 }
+.infos table {
+    width: 100%;
+    margin: 5px 0;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+.infos caption {
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.1;
+    margin: 0 0 5px 0;
+    padding: 4px;
+    background: #dfedff;
+}
 .infos p{
 	display: table;
     height: 45px;
