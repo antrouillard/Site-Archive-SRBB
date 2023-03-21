@@ -45,6 +45,11 @@ img.rounded{
     justify-content: space-around;
     align-items: center;
 }
+.infos .legend{
+	font-size: 0.9em;
+    text-align: center;
+    margin: 5px 0 8px 0;
+}
 .infos p{
 	display: table;
     height: 45px;
