@@ -20,8 +20,8 @@ img {
 img.rounded{
 	object-fit: cover;
 	border-radius: 50%;
-	height: 300px;
-	width: 300px;
+	height: 120px;
+	width: 120px;
 	border: solid 5px #D3D3D3;
 }
 a {
@@ -41,6 +41,24 @@ a {
 .wrapper section .title{
 	font-size: 44px;
 	font-weight: 600;
+	text-align:center;
+}
+.wrapper section .years{
+	font-size: 30px;
+	font-weight : 300;
+}
+
+.wrapper section .membres-L{
+	display:grid;
+	
+    grid-template-columns: repeat(5,minmax(0,1fr));
+}
+.membres-L i{
+	justify-content:center;
+	display:flex;
+}
+.membres-L .noms{
+	text-align:center;
 }
 .wrapper section p{
 	margin: 10px 0 17px 0;
