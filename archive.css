@@ -15,7 +15,7 @@ body{
 }
 .header{
 	background: rgba(65, 103, 177, .9);
-	height: 50px;
+	height: 40px;
 	padding: 0 10px;
 	position: fixed;
 	top: 0;
