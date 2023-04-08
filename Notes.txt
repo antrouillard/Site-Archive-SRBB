@@ -1,23 +1,54 @@
 Créer pages membre de :
 	en 2019 : 
-		-Alexandre "Lexa" Durand
+		-Alexandre "Lexa" Durand [FAIT]
 		-Matthias "Labaguette" Galisson
 		-Kyannah
+		-Noune "Wlly" Radix
 		-Killian "Archkeeper"
 		-Rémi "PetiteGraine" 
 		-Shiyro
 		-Impertinent
-	en 2020 : 
 		-Antoine "LuBiuS" Rouillard
-	en 2021 :
-		-Zoé "Haurell" 
-		-Noémie "Umi"
+	en 2020:
+		-Baptiste "Ak1las" Arnold
 		-Alban "GPA444" Vallée
 		-Raphael "Poulpy" Roux
-		-Baptiste "Ak1las" Arnold
-		-Quentin "Kelk1" Rataud
+		-Zoé "Haurell" 
+		-Noémie "Umi"
 		-Dimitri "Toutikuanti" Scribeaux
-		-Thomas
+	en 2021 :
+		-Quentin "Kelk1" Rataud
+		-Adrininho
+		-Thomas "Astraz"
+		-chaussette licorne
+		-xTita
+	en 2022 :
+		-Antoine "Swazie" Armandie
+		-Poney 
 		
 Créer pages archive (pas dans l'ordre) :
+	-SundayRoutineButBetter
+	-SummeRBB (serv mc achievements)
+	-GlouglouBB (serv mc moddé)
+	-SRBB rework
+	-SRRP 
+	-Confinement :
+		-TFT -> ère LoL
+	-Projet Valo 
+	-Norteaugraf
+	-Harcèlement de Shiyro
+	-Racistes ?
+	-Small Numbers Big Brains 
+	-Invisibles...
+	-Wallpaper when?
+	
+Créer pages rôles :
+	-Créateur
+	-Gourou
+	-Administrateur
+	-Membre
+	-Clash
+Bouton menu pour afficher la liste des membres, liste des évènements etc
+
+	
 	

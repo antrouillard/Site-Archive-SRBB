@@ -1,0 +1,123 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Poppins", sans-serif;
+}
+html{
+	scroll-behavior: smooth;
+}	
+body{
+	background: rgba(239, 162, 170, 1);
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+img.rounded{
+	object-fit: cover;
+	border-radius: 50%;
+	height: 300px;
+	width: 300px;
+	border: solid 5px #D3D3D3;
+}
+a {
+    text-decoration: none;
+    color: #3366cc;
+    background: none;
+}
+
+.wrapper section{
+	background: #fff;
+	border-radius: 10px;
+	width: 96%;
+	height : 96%;
+	margin: 2%;
+	padding: 2%;
+}
+.wrapper section .infos{
+	position: absolute;
+	border:solid 5px #D3D3D3;
+	width:20%;
+	height:130%;
+	left:75%;
+	margin-left:2%;
+}
+.infos .logo{
+	text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.infos .legend{
+	font-size: 0.9em;
+    text-align: center;
+    margin: 5px 0 8px 0;
+}
+.infos table {
+    width: 100%;
+    margin: 5px 0;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: gray;
+}
+tbody{
+	display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+td{
+	display: table-cell;
+	padding:4px;
+}
+.infos caption {
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.1;
+    margin: 0 0 5px 0;
+    padding: ;
+    background: #dfedff;
+}
+.infos p{
+	display: table;
+    height: 45px;
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.4em;
+    line-height: 1.1;
+    margin-bottom: 10px;
+}
+.wrapper section .title{
+	font-size: 44px;
+	font-weight: 600;
+}
+.wrapper section p{
+	margin: 10px 0 17px 0;
+	padding : 10px;
+}
+.wrapper section .bottom a{
+	text-decoration: none;
+	background: #3ea0e2;
+	color: #fff;
+	padding: 7px 15px;
+	border-radius: 5px;
+	/* font-size: 17px; */
+	font-weight: 400;
+	transition: all 0.3s ease;
+}
+.wrapper section .bottom a:hover{
+	transform: scale(0.97);
+}
+	
