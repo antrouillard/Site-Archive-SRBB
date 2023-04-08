@@ -79,7 +79,7 @@ tbody{
 }
 td{
 	display: table-cell;
-	padding:4px
+	padding:4px;
 }
 .infos caption {
     font-weight: bold;
